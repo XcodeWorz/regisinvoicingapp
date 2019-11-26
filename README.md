@@ -4,8 +4,10 @@ This repo contains the source code, MySQL file, and documentation
 Getting started
 Prerequisites
 (1) Node: any 8.x version starting with 8.4.0 or greater: check online for installing node js in your specific OS
-(2) pm2:  Run this command to install, sudo npm install pm2 -g
-(2) Mysql server
+
+(2) pm2 (You can install PM2 Using "sudo npm install pm2 -g")
+
+(3) Mysql server
 
 # Installation
 
