@@ -53,7 +53,12 @@ open http://localhost:3001 in your browser
 	npm start  
   
 Now open http://localhost:3000  
-  
+
+## Login Credentials
+
+username:admin@admin.com
+password: qwertyui
+
 # Features
 
 Regis app is an Invoicing application developed in ReactJS by Rapidmind Technologies. It is a simplified invoicing app that covers creating and sending invoices and also recording the payments.  
